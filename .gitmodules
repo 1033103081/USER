@@ -1,3 +1,12 @@
 [submodule ".config"]
 	path = .config
 	url = https://github.com/1033103081/.config.git
+[submodule ".fonts"]
+	path = .fonts
+	url = https://github.com/1033103081/.fonts.git
+[submodule ".themes"]
+	path = .themes
+	url = https://github.com/1033103081/.themes.git
+[submodule ".icons"]
+	path = .icons
+	url = https://github.com/1033103081/.icons.git
