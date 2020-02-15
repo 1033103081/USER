@@ -64,3 +64,13 @@ vm/
 .tmux/
 antigame.sh
 
+
+.oh-my-zsh/
+.shell.pre-oh-my-zsh
+.viminfo
+.wget-hsts
+.zcompdump-archlinux-5.7.1
+.zsh_history
+github/
+
+
